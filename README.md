@@ -34,7 +34,7 @@ I focus on performance, clean architecture, and creating seamless user experienc
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?soesepdev&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soesepdev&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soesepdev&layout=compact&theme=radical)
 
 ---
