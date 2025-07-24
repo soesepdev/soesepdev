@@ -1,6 +1,6 @@
 <!-- Typing animation heading -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Soesep!;Fullstack+Developer;React,+Laravel,+Node.js+%26+More!;&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Soe;Fullstack+Developer;React,+Laravel,+Node.js+%26+More!;&center=true&width=500&height=50">
 </p>
 
 <!-- Profile views counter -->
