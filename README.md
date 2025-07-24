@@ -44,13 +44,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soesepdev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soesepdev&layout=compact&theme=radical" />
 <!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soesepdev&theme=radical" /> -->
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soesepdev&layout=compact&theme=radical" />
-</p>
-
 ---
 
 ## 📫 Contact Me
