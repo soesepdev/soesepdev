@@ -8,12 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=soesepdev&label=Profile+Views&color=0e75b6&style=flat" alt="soesepdev" />
 </p>
 
-<!-- Intro heading -->
-<h1 align="center">👋 Hi there, I'm Soesep</h1>
-<h3 align="center">Fullstack Developer</h3>
-
----
-
 ## 🧰 Tech Stack
 
 ### 🌐 Frontend  
@@ -50,7 +44,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soesepdev&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soesepdev&theme=radical" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soesepdev&theme=radical" /> -->
 </p>
 
 <p align="center">
