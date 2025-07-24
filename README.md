@@ -1,7 +1,16 @@
-# 👋 Hi there, I'm Soe
+<!-- Typing animation heading -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Soesep!;Fullstack+Developer;React,+Laravel,+Node.js+%26+More!;&center=true&width=500&height=50">
+</p>
 
-I'm a **Fullstack Developer** with experience building scalable web and mobile applications using modern technologies.  
-I focus on performance, clean architecture, and creating seamless user experiences from backend to frontend.
+<!-- Profile views counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soesepdev&label=Profile+Views&color=0e75b6&style=flat" alt="soesepdev" />
+</p>
+
+<!-- Intro heading -->
+<h1 align="center">👋 Hi there, I'm Soesep</h1>
+<h3 align="center">Fullstack Developer</h3>
 
 ---
 
@@ -39,18 +48,23 @@ I focus on performance, clean architecture, and creating seamless user experienc
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=soesepdev&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soesepdev&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soesepdev&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soesepdev&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soesepdev&layout=compact&theme=radical" />
+</p>
 
 ---
 
 ## 📫 Contact Me
 
 - 📧 Email: [soesep.dev@gmail.com](mailto:soesep.dev@gmail.com)
-- 🌐 Website: [soesepdev.my.id](https://soesepdev.my.id)
+- 🌐 Website: [https://soesepdev.my.id](https://soesepdev.my.id)
 - 💼 LinkedIn: [linkedin.com/in/soesepdev](https://linkedin.com/in/soesepdev)
 
 ---
 
-> Thanks for stopping by! 🙌  
-> Feel free to check out my repositories or reach out for collaboration.
+> 🚀 Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration.
