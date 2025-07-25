@@ -9,8 +9,7 @@
 ---
 
 ## 🧰 Tech Stack
-<br>
-<br>
+
 <details>
   <summary>🌐 Frontend & State Management</summary>
   <p align="left">
