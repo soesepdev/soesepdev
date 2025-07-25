@@ -45,14 +45,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=soesepdev&show_icons=true&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soesepdev&layout=compact&theme=radical" />
 </p>
----
 
 ## 📫 Contact Me
 
 - 📧 Email: [soesep.dev@gmail.com](mailto:soesep.dev@gmail.com)
 - 🌐 Website: [https://soesepdev.my.id](https://soesepdev.my.id)
 - 💼 LinkedIn: [linkedin.com/in/soesepdev](https://linkedin.com/in/soesepdev)
-
----
-
-> 🚀 Thanks for stopping by! Feel free to explore my repositories or reach out for collaboration.
