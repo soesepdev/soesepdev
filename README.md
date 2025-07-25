@@ -8,17 +8,6 @@
 
 ---
 
-## 👨‍💻 About Me
-Hi! Saya seorang **Fullstack Developer** yang berfokus pada **React, Next.js, Laravel, dan Node.js**.  
-Saya menyukai **clean code, scalable architecture**, dan eksplorasi teknologi terbaru.
-
-- 🚀 Saat ini sedang mendalami **Next.js 15 & TypeScript**  
-- 🌱 Tertarik pada **DevOps & Cloud Deployment**  
-- 💬 Tanya saya seputar **React, Laravel, Node.js, atau API Development**  
-- ⚡ Fun fact: Saya suka eksplorasi **tools open-source** dan **performance optimization**  
-
----
-
 ## 🧰 Tech Stack
 
 <details>
@@ -73,18 +62,6 @@ Saya menyukai **clean code, scalable architecture**, dan eksplorasi teknologi te
   ![LiteSpeed](https://img.shields.io/badge/LiteSpeed-1D6CDF?style=for-the-badge&logo=litespeed&logoColor=white)  
   ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)  
 </details>
-
----
-
-## 🚀 Featured Projects
-<p align="center">
-  <a href="https://github.com/soesepdev/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soesepdev&repo=project-1&theme=radical" />
-  </a>
-  <a href="https://github.com/soesepdev/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soesepdev&repo=project-2&theme=radical" />
-  </a>
-</p>
 
 ---
 
