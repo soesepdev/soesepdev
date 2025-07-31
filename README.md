@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="27" />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&duration=2500&pause=1000&color=F8302E&vCenter=true&random=false&width=200&height=25&lines=Hello!;I'm+Soe" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&duration=2500&pause=1000&color=F8302E&vCenter=true&random=false&width=200&height=25&lines=Hello!;I'm+Soe; Fullstack Developer;" alt="Typing SVG" />
   </a>
 </p>
 
