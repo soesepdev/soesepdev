@@ -74,7 +74,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=soesepdev&theme=radical&margin-w=10&margin-h=10&column=7" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="22.3" width="100%"/>
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -83,14 +83,7 @@
   <img src="https://streak-stats.demolab.com?user=soesepdev&theme=radical" />
 </p>
 
----
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soesepdev&theme=radical" />
-</p>
-
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="22.3" width="100%"/>
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:soesep.dev@gmail.com)
