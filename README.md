@@ -1,11 +1,11 @@
 <p>
   <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" width="27" />
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&duration=2500&pause=1000&color=F8302E&vCenter=true&random=false&width=300&height=25&lines=Hi,+I'm+Soe!;Fullstack+Web+%26+Mobile+Developer;Clean+Code+Enthusiast+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&duration=2500&pause=1000&color=F8302E&vCenter=true&random=false&width=300&height=25&lines=Hi,+I'm+Soe!;Fullstack+Developer;Clean+Code+Enthusiast+🚀" alt="Typing SVG" />
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="22.3" width="100%"/>
+<img src="https://i.gifer.com/ZV2.gif" height="20" width="100%"/>
 
 ## 🧰 Tech Stack
 
